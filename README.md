@@ -1,3 +1,3 @@
 # language-elm package
 
-A short description of your package.
+Syntax highlighting and snippets for the language [Elm](http://elm-lang.org/).
