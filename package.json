@@ -1,12 +1,11 @@
 {
   "name": "language-elm",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Syntax highlighting and snippets for the language Elm",
   "repository": "https://github.com/edubkendo/atom-elm",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
