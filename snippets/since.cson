@@ -1,0 +1,4 @@
+'.source.elm':
+  'Time -> Signal a -> Signal Bool':
+    'prefix': 'since'
+    'body': 'since ${1:time} ${2:signal}'

@@ -1,0 +1,4 @@
+'.source.elm':
+  '[a] -> a':
+    'prefix': 'head'
+    'body': 'head ${1:list}'

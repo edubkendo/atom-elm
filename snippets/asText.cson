@@ -1,0 +1,4 @@
+'.source.elm':
+  'a -> Element':
+    'prefix': 'asText'
+    'body': 'asText ${1:a}'

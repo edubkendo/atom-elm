@@ -1,0 +1,4 @@
+'.source.elm':
+  '[Maybe a] -> [a]':
+    'prefix': 'justs'
+    'body': 'justs ${1:list}'

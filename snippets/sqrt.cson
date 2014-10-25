@@ -1,0 +1,4 @@
+'.source.elm':
+  'number -> number':
+    'prefix': 'sqrt'
+    'body': 'sqrt ${1:number}'

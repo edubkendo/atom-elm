@@ -1,0 +1,4 @@
+'.source.elm':
+  'Float -> Float':
+    'prefix': 'cos'
+    'body': 'cos ${1:float}'

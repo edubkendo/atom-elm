@@ -1,0 +1,4 @@
+'.source.elm':
+  '[String] -> Text -> Text':
+    'prefix': 'typeface'
+    'body': 'typeface ${1:list} ${2:text}'

@@ -1,0 +1,4 @@
+'.source.elm':
+  '[Bool] -> Bool':
+    'prefix': 'or'
+    'body': 'or ${1:list}'

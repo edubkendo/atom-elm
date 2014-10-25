@@ -1,0 +1,4 @@
+'.source.elm':
+  'a -> a':
+    'prefix': 'id'
+    'body': 'id ${1:a}'

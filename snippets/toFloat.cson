@@ -1,0 +1,4 @@
+'.source.elm':
+  'Int -> Float':
+    'prefix': 'toFloat'
+    'body': 'toFloat ${1:int}'

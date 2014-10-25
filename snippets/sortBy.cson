@@ -1,0 +1,4 @@
+'.source.elm':
+  '(a -> comparable) ->  [a] -> [a]':
+    'prefix': 'sortBy'
+    'body': 'sortBy ${1:function} ${2:list}'

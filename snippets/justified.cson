@@ -1,0 +1,4 @@
+'.source.elm':
+  'Text -> Element':
+    'prefix': 'justified'
+    'body': 'justified ${1:text}'

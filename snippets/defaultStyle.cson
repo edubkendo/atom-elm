@@ -1,0 +1,4 @@
+'.source.elm':
+  'Style':
+    'prefix': 'defaultStyle'
+    'body': 'defaultStyle'

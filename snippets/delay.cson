@@ -1,0 +1,4 @@
+'.source.elm':
+  'Time -> Signal a -> Signal a':
+    'prefix': 'delay'
+    'body': 'delay ${1:time} ${2:signal}'

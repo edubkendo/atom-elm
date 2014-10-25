@@ -1,0 +1,4 @@
+'.source.elm':
+  'Time':
+    'prefix': 'second'
+    'body': 'second'

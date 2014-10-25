@@ -1,0 +1,4 @@
+'.source.elm':
+  '[Signal a] -> Signal [a]':
+    'prefix': 'combine'
+    'body': 'combine ${1:list}'

@@ -1,0 +1,4 @@
+'.source.elm':
+  'Float -> Text -> Text':
+    'prefix': 'height'
+    'body': 'height ${1:float} ${2:text}'

@@ -1,0 +1,4 @@
+'.source.elm':
+  '[comparable] -> comparable':
+    'prefix': 'maximum'
+    'body': 'maximum ${1:list}'

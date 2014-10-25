@@ -1,0 +1,4 @@
+'.source.elm':
+  'String -> Text -> Text':
+    'prefix': 'link'
+    'body': 'link ${1:string} ${2:text}'

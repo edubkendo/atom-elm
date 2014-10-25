@@ -1,0 +1,4 @@
+'.source.elm':
+  'a -> Signal a':
+    'prefix': 'constant'
+    'body': 'constant ${1:a}'

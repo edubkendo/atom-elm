@@ -1,0 +1,4 @@
+'.source.elm':
+  'Float -> Color':
+    'prefix': 'grayscale'
+    'body': 'grayscale ${1:float}'

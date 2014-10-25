@@ -1,0 +1,4 @@
+'.source.elm':
+  'Float -> Float':
+    'prefix': 'asin'
+    'body': 'asin ${1:float}'

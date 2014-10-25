@@ -1,0 +1,4 @@
+'.source.elm':
+  '[a] -> [a]':
+    'prefix': 'tail'
+    'body': 'tail ${1:list}'

@@ -1,0 +1,4 @@
+'.source.elm':
+  'Float -> Float':
+    'prefix': 'atan'
+    'body': 'atan ${1:float}'

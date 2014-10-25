@@ -1,0 +1,4 @@
+'.source.elm':
+  'a -> b -> a':
+    'prefix': 'always'
+    'body': 'always ${1:a} ${2:b}'

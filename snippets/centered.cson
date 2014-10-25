@@ -1,0 +1,4 @@
+'.source.elm':
+  'Text -> Element':
+    'prefix': 'centered'
+    'body': 'centered ${1:text}'

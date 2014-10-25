@@ -1,0 +1,4 @@
+'.source.elm':
+  'Signal a -> Signal Int':
+    'prefix': 'count'
+    'body': 'count ${1:signal}'

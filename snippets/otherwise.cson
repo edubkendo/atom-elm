@@ -1,0 +1,4 @@
+'.source.elm':
+  'Bool':
+    'prefix': 'otherwise'
+    'body': 'otherwise'

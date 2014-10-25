@@ -1,0 +1,4 @@
+'.source.elm':
+  'Float -> Float':
+    'prefix': 'degrees'
+    'body': 'degrees ${1:float}'

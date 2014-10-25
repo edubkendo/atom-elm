@@ -1,0 +1,4 @@
+'.source.elm':
+  'Text -> Text':
+    'prefix': 'bold'
+    'body': 'bold ${1:text}'

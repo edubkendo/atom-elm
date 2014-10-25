@@ -1,0 +1,4 @@
+'.source.elm':
+  '[a] -> [a]':
+    'prefix': 'reverse'
+    'body': 'reverse ${1:list}'

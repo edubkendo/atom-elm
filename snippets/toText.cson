@@ -1,0 +1,4 @@
+'.source.elm':
+  'String -> Text':
+    'prefix': 'toText'
+    'body': 'toText ${1:string}'

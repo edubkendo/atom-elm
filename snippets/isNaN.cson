@@ -1,0 +1,4 @@
+'.source.elm':
+  'Float -> Bool':
+    'prefix': 'isNaN'
+    'body': 'isNaN ${1:float}'

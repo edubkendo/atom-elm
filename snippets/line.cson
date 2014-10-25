@@ -1,0 +1,4 @@
+'.source.elm':
+  'Line -> Text -> Text':
+    'prefix': 'line'
+    'body': 'line ${1:line} ${2:text}'

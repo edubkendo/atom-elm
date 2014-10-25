@@ -1,0 +1,4 @@
+'.source.elm':
+  'Int -> a -> [a]':
+    'prefix': 'repeat'
+    'body': 'repeat ${1:int} ${2:a}'
