@@ -1,4 +1,4 @@
 '.source.elm':
-  '(a -> Bool) -> Signal a -> Signal Int':
+  'countIf : (a -> Bool) -> Signal a -> Signal Int':
     'prefix': 'countIf'
     'body': 'countIf ${1:function} ${2:signal}'

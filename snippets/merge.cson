@@ -1,4 +1,4 @@
 '.source.elm':
-  'Signal a -> Signal a -> Signal a':
+  'merge : Signal a -> Signal a -> Signal a':
     'prefix': 'merge'
     'body': 'merge ${1:signal} ${2:signal}'

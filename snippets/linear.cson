@@ -1,4 +1,4 @@
 '.source.elm':
-  '(number, number) -> (number, number) -> [(Float,Color)] -> Gradient':
+  'linear : (number, number) -> (number, number) -> [(Float,Color)] -> Gradient':
     'prefix': 'linear'
     'body': 'linear ${1:tuple} ${2:tuple} ${3:list}'

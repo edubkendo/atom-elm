@@ -1,4 +1,4 @@
 '.source.elm':
-  '[appendable] -> appendable':
+  'concat : [appendable] -> appendable':
     'prefix': 'concat'
     'body': 'concat ${1:list}'

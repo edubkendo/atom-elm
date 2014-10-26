@@ -1,4 +1,4 @@
 '.source.elm':
-  'Color':
+  'darkCharcoal : Color':
     'prefix': 'darkCharcoal'
     'body': 'darkCharcoal'

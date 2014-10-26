@@ -1,4 +1,4 @@
 '.source.elm':
-  '(Float,Float) -> (Float,Float)':
+  'fromPolar : (Float,Float) -> (Float,Float)':
     'prefix': 'fromPolar'
     'body': 'fromPolar ${1:tuple}'

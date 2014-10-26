@@ -1,4 +1,4 @@
 '.source.elm':
-  '(a -> a -> a) -> [a] -> a':
+  'foldr1 : (a -> a -> a) -> [a] -> a':
     'prefix': 'foldr1'
     'body': 'foldr1 ${1:function} ${2:list}'

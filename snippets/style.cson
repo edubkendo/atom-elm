@@ -1,4 +1,4 @@
 '.source.elm':
-  'Style -> Text -> Text':
+  'style : Style -> Text -> Text':
     'prefix': 'style'
     'body': 'style ${1:style} ${2:text}'

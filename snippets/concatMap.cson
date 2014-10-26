@@ -1,4 +1,4 @@
 '.source.elm':
-  '(a -> appendable) -> [a] -> appendable':
+  'concatMap : (a -> appendable) -> [a] -> appendable':
     'prefix': 'concatMap'
     'body': 'concatMap ${1:function} ${2:list}'

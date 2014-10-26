@@ -1,4 +1,4 @@
 '.source.elm':
-  'Float -> Float':
+  'turns : Float -> Float':
     'prefix': 'turns'
     'body': 'turns ${1:float}'

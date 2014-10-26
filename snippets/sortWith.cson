@@ -1,4 +1,4 @@
 '.source.elm':
-  '(a -> a -> Order) ->  [a] -> [a]':
+  'sortWith : (a -> a -> Order) ->  [a] -> [a]':
     'prefix': 'sortWith'
     'body': 'sortWith ${1:function} ${2:list}'

@@ -1,4 +1,4 @@
 '.source.elm':
-  'Float -> Float':
+  'tan : Float -> Float':
     'prefix': 'tan'
     'body': 'tan ${1:float}'

@@ -1,4 +1,4 @@
 '.source.elm':
-  'Color':
+  'red : Color':
     'prefix': 'red'
     'body': 'red'

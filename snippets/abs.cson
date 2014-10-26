@@ -1,4 +1,4 @@
 '.source.elm':
-  'number -> number':
+  'abs : number -> number':
     'prefix': 'abs'
     'body': 'abs ${1:number}'

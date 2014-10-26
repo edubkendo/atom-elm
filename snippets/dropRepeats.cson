@@ -1,4 +1,4 @@
 '.source.elm':
-  'Signal a -> Signal a':
+  'dropRepeats : Signal a -> Signal a':
     'prefix': 'dropRepeats'
     'body': 'dropRepeats ${1:signal}'

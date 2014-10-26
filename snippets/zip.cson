@@ -1,4 +1,4 @@
 '.source.elm':
-  '[a] -> [b] -> [(a,b)]':
+  'zip : [a] -> [b] -> [(a,b)]':
     'prefix': 'zip'
     'body': 'zip ${1:list} ${2:list}'

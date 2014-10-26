@@ -1,4 +1,4 @@
 '.source.elm':
-  'Time -> Float':
+  'inSeconds : Time -> Float':
     'prefix': 'inSeconds'
     'body': 'inSeconds ${1:time}'

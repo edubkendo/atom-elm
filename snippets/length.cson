@@ -1,4 +1,4 @@
 '.source.elm':
-  '[a] -> Int':
+  'length : [a] -> Int':
     'prefix': 'length'
     'body': 'length ${1:list}'

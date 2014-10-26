@@ -1,4 +1,4 @@
 '.source.elm':
-  'Int -> Int -> Int':
+  'mod : Int -> Int -> Int':
     'prefix': 'mod'
     'body': 'mod ${1:int} ${2:int}'

@@ -1,4 +1,4 @@
 '.source.elm':
-  'Time':
+  'hour : Time':
     'prefix': 'hour'
     'body': 'hour'

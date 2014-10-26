@@ -1,4 +1,4 @@
 '.source.elm':
-  '[a] -> Bool':
+  'isEmpty : [a] -> Bool':
     'prefix': 'isEmpty'
     'body': 'isEmpty ${1:list}'

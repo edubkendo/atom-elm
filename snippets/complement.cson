@@ -1,4 +1,4 @@
 '.source.elm':
-  'Color -> Color':
+  'complement : Color -> Color':
     'prefix': 'complement'
     'body': 'complement ${1:color}'

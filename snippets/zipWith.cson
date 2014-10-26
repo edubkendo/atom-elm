@@ -1,4 +1,4 @@
 '.source.elm':
-  '(a -> b -> c) -> [a] -> [b] -> [c]':
+  'zipWith : (a -> b -> c) -> [a] -> [b] -> [c]':
     'prefix': 'zipWith'
     'body': 'zipWith ${1:function} ${2:list} ${3:list}'

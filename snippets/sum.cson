@@ -1,4 +1,4 @@
 '.source.elm':
-  '[number] -> number':
+  'sum : [number] -> number':
     'prefix': 'sum'
     'body': 'sum ${1:list}'

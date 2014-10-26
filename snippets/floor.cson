@@ -1,4 +1,4 @@
 '.source.elm':
-  'Float -> Int':
+  'floor : Float -> Int':
     'prefix': 'floor'
     'body': 'floor ${1:float}'

@@ -1,4 +1,4 @@
 '.source.elm':
-  'Color':
+  'lightGrey : Color':
     'prefix': 'lightGrey'
     'body': 'lightGrey'

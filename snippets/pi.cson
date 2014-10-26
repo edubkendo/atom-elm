@@ -1,4 +1,4 @@
 '.source.elm':
-  'Float':
+  'pi : Float':
     'prefix': 'pi'
     'body': 'pi'

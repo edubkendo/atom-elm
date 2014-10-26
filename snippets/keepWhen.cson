@@ -1,4 +1,4 @@
 '.source.elm':
-  'Signal Bool -> a -> Signal a -> Signal a':
+  'keepWhen : Signal Bool -> a -> Signal a -> Signal a':
     'prefix': 'keepWhen'
     'body': 'keepWhen ${1:signal} ${2:a} ${3:signal}'

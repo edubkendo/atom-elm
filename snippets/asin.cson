@@ -1,4 +1,4 @@
 '.source.elm':
-  'Float -> Float':
+  'asin : Float -> Float':
     'prefix': 'asin'
     'body': 'asin ${1:float}'

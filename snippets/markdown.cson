@@ -1,4 +1,4 @@
 '.source.elm':
-  'Element':
+  'markdown : Element':
     'prefix': 'markdown'
     'body': 'markdown'

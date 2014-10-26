@@ -1,4 +1,4 @@
 '.source.elm':
-  '[(a,b)] -> ([a],[b])':
+  'unzip : [(a,b)] -> ([a],[b])':
     'prefix': 'unzip'
     'body': 'unzip ${1:list}'
