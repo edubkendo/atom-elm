@@ -1,4 +1,0 @@
-'name': 'Indent Patterns'
-'scope': 'source.elm'
-'settings':
-  'increaseIndentPattern': '((^.*(=|[|!%$?~+:\\-.=</>&\\\\*^]+|\\bthen|\\belse|\\bof)\\s*$)|(^.*\\bif(?!.*\\bthen\\b.*\\belse\\b.*).*$))'
