@@ -1,0 +1,4 @@
+'.source.elm':
+  'editor':
+    'commentStart': '-- '
+    'increaseIndentPattern': '((^.*(=|[|!%$?~+:\\-.=</>&\\\\*^]+|\\bthen|\\belse|\\bof)\\s*$)|(^.*\\bif(?!.*\\bthen\\b.*\\belse\\b.*).*$))'
