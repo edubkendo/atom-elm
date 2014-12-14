@@ -215,7 +215,8 @@
         'captures':
           '1':
             'name': 'punctuation.definition.comment.elm'
-        'match': '(--).*$\\n?'
+        'begin': '--'
+        'end': '$'
         'name': 'comment.line.double-dash.elm'
       }
       {
