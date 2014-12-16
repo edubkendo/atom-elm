@@ -1,5 +1,5 @@
 'name': 'Comments'
-'scope': 'source.elm'
+'scopeName': 'source.elm'
 'settings':
   'shellVariables': [
     {
