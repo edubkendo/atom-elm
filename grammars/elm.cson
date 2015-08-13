@@ -54,7 +54,7 @@
     'name': 'meta.import.elm'
     'patterns': [
       {
-        'match': '(as)'
+        'match': '(as|exposing)'
         'name': 'keyword.import.elm'
       }
       {
@@ -90,7 +90,7 @@
     ]
   }
   {
-    'match': '\\b(data|type|case|of|let|in|as)\\s+'
+    'match': '\\b(type|case|of|let|in|as|port|exposing|alias|infixl|infixr|infix|hiding|export|foreign|perform|deriving)\\s+'
     'name': 'keyword.other.elm'
   }
   {
