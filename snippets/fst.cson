@@ -1,4 +1,0 @@
-'.source.elm':
-  'fst : (a,b) -> a':
-    'prefix': 'fst'
-    'body': 'fst ${1:tuple}'

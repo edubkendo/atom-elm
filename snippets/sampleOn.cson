@@ -1,4 +1,0 @@
-'.source.elm':
-  'sampleOn : Signal a -> Signal b -> Signal b':
-    'prefix': 'sampleOn'
-    'body': 'sampleOn ${1:signal} ${2:signal}'

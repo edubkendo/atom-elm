@@ -1,4 +1,0 @@
-'.source.elm':
-  'filter : (a -> Bool) -> [a] -> [a]':
-    'prefix': 'filter'
-    'body': 'filter ${1:function} ${2:list}'

@@ -1,4 +1,0 @@
-'.source.elm':
-  'isInfinite : Float -> Bool':
-    'prefix': 'isInfinite'
-    'body': 'isInfinite ${1:float}'

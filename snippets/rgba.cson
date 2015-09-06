@@ -1,4 +1,0 @@
-'.source.elm':
-  'rgba : Int -> Int -> Int -> Float -> Color':
-    'prefix': 'rgba'
-    'body': 'rgba ${1:int} ${2:int} ${3:int} ${4:float}'

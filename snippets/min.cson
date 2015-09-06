@@ -1,4 +1,0 @@
-'.source.elm':
-  'min : comparable -> comparable -> comparable':
-    'prefix': 'min'
-    'body': 'min ${1:comparable} ${2:comparable}'

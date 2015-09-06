@@ -1,4 +1,0 @@
-'.source.elm':
-  'last : [a] -> a':
-    'prefix': 'last'
-    'body': 'last ${1:list}'

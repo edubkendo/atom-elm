@@ -1,4 +1,0 @@
-'.source.elm':
-  'italic : Text -> Text':
-    'prefix': 'italic'
-    'body': 'italic ${1:text}'

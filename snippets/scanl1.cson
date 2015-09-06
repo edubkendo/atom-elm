@@ -1,4 +1,0 @@
-'.source.elm':
-  'scanl1 : (a -> a -> a) -> [a] -> [a]':
-    'prefix': 'scanl1'
-    'body': 'scanl1 ${1:function} ${2:list}'

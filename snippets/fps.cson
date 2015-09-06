@@ -1,4 +1,0 @@
-'.source.elm':
-  'fps : number -> Signal Time':
-    'prefix': 'fps'
-    'body': 'fps ${1:number}'

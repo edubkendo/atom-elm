@@ -1,4 +1,0 @@
-'.source.elm':
-  'join : appendable -> [appendable] -> appendable':
-    'prefix': 'join'
-    'body': 'join ${1:appendable} ${2:list}'

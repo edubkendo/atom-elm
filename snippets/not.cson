@@ -1,4 +1,0 @@
-'.source.elm':
-  'not : Bool -> Bool':
-    'prefix': 'not'
-    'body': 'not ${1:bool}'

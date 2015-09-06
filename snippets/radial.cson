@@ -1,4 +1,0 @@
-'.source.elm':
-  'radial : (number,number) -> number -> (number,number) -> number -> [(Float,Color)] -> Gradient':
-    'prefix': 'radial'
-    'body': 'radial ${1:tuple} ${2:number} ${3:tuple} ${4:number} ${5:list}'

@@ -1,4 +1,0 @@
-'.source.elm':
-  'sort : [comparable] -> [comparable]':
-    'prefix': 'sort'
-    'body': 'sort ${1:list}'

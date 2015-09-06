@@ -1,4 +1,0 @@
-'.source.elm':
-  'max :  comparable -> comparable -> comparable':
-    'prefix': 'max'
-    'body': 'max ${1:comparable} ${2:comparable}'

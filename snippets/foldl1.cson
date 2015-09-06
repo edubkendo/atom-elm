@@ -1,4 +1,0 @@
-'.source.elm':
-  'foldl1 : (a -> a -> a) -> [a] -> a':
-    'prefix': 'foldl1'
-    'body': 'foldl1 ${1:function} ${2:list}'

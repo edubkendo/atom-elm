@@ -1,4 +1,0 @@
-'.source.elm':
-  'timestamp : Signal a -> Signal (Time, a)':
-    'prefix': 'timestamp'
-    'body': 'timestamp ${1:signal}'

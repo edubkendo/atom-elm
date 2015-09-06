@@ -1,4 +1,0 @@
-'.source.elm':
-  'div : Int -> Int -> Int':
-    'prefix': 'div'
-    'body': 'div ${1:int} ${2:int}'

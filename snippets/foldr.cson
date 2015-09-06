@@ -1,4 +1,0 @@
-'.source.elm':
-  'foldr : (a -> b -> b) -> b -> [a] -> b':
-    'prefix': 'foldr'
-    'body': 'foldr ${1:function} ${2:b} ${3:list}'

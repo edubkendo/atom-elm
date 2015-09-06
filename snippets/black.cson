@@ -1,4 +1,0 @@
-'.source.elm':
-  'black : Color':
-    'prefix': 'black'
-    'body': 'black'

@@ -1,4 +1,0 @@
-'.source.elm':
-  'plainText : String -> Element':
-    'prefix': 'plainText'
-    'body': 'plainText ${1:string}'

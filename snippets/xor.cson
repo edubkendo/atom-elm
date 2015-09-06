@@ -1,4 +1,0 @@
-'.source.elm':
-  'xor : Bool -> Bool -> Bool':
-    'prefix': 'xor'
-    'body': 'xor ${1:bool} ${2:bool}'

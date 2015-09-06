@@ -1,4 +1,0 @@
-'.source.elm':
-  'flip : (a -> b -> c) -> (b -> a -> c)':
-    'prefix': 'flip'
-    'body': 'flip ${1:function} ${2:function}'

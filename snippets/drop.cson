@@ -1,4 +1,0 @@
-'.source.elm':
-  'drop : Int -> [a] -> [a]':
-    'prefix': 'drop'
-    'body': 'drop ${1:int} ${2:list}'

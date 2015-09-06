@@ -1,4 +1,0 @@
-'.source.elm':
-  'rem : Int -> Int -> Int':
-    'prefix': 'rem'
-    'body': 'rem ${1:int} ${2:int}'

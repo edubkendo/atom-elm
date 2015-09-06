@@ -1,4 +1,0 @@
-'.source.elm':
-  'snd : (a,b) -> b':
-    'prefix': 'snd'
-    'body': 'snd ${1:tuple}'

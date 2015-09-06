@@ -1,4 +1,0 @@
-'.source.elm':
-  'uncurry : (a -> b -> c) -> (a,b) -> c':
-    'prefix': 'uncurry'
-    'body': 'uncurry ${1:function} ${2:tuple}'

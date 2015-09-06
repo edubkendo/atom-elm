@@ -1,4 +1,0 @@
-'.source.elm':
-  'isNothing : Maybe a -> Bool':
-    'prefix': 'isNothing'
-    'body': 'isNothing ${1:maybe}'

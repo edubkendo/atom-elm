@@ -1,4 +1,0 @@
-'.source.elm':
-  'dropWhen : Signal Bool -> a -> Signal a -> Signal a':
-    'prefix': 'dropWhen'
-    'body': 'dropWhen ${1:signal} ${2:a} ${3:signal}'

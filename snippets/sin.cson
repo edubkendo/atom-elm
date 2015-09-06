@@ -1,4 +1,0 @@
-'.source.elm':
-  'sin : Float -> Float':
-    'prefix': 'sin'
-    'body': 'sin ${1:float}'

@@ -1,4 +1,0 @@
-'.source.elm':
-  'partition : (a -> Bool) -> [a] -> ([a],[a])':
-    'prefix': 'partition'
-    'body': 'partition ${1:function} ${2:list}'

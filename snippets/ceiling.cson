@@ -1,4 +1,0 @@
-'.source.elm':
-  'ceiling : Float -> Int':
-    'prefix': 'ceiling'
-    'body': 'ceiling ${1:float}'

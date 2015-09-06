@@ -1,4 +1,0 @@
-'.source.elm':
-  'radians : Float -> Float':
-    'prefix': 'radians'
-    'body': 'radians ${1:float}'

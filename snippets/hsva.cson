@@ -1,4 +1,0 @@
-'.source.elm':
-  'hsva : Float -> Float -> Float -> Float -> Color':
-    'prefix': 'hsva'
-    'body': 'hsva ${1:float} ${2:float} ${3:float} ${4:float}'

@@ -1,4 +1,0 @@
-'.source.elm':
-  'maybe : b -> (a -> b) -> Maybe a -> b':
-    'prefix': 'maybe'
-    'body': 'maybe ${1:b} ${2:function} ${3:maybe}'

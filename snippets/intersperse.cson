@@ -1,4 +1,0 @@
-'.source.elm':
-  'intersperse : a -> [a] -> [a]':
-    'prefix': 'intersperse'
-    'body': 'intersperse ${1:a} ${2:list}'

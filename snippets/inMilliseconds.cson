@@ -1,4 +1,0 @@
-'.source.elm':
-  'inMilliseconds : Time -> Float':
-    'prefix': 'inMilliseconds'
-    'body': 'inMilliseconds ${1:time}'

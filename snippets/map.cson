@@ -1,4 +1,0 @@
-'.source.elm':
-  'map : (a -> b) -> [a] -> [b]':
-    'prefix': 'map'
-    'body': 'map ${1:function} ${2:list}'

@@ -1,4 +1,0 @@
-'.source.elm':
-  'isJust : Maybe a -> Bool':
-    'prefix': 'isJust'
-    'body': 'isJust ${1:maybe}'

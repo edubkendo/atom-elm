@@ -1,4 +1,0 @@
-'.source.elm':
-  'lift2 : (a -> b -> c) -> Signal a -> Signal b -> Signal c':
-    'prefix': 'lift2'
-    'body': 'lift2 ${1:function} ${2:signal} ${3:signal}'

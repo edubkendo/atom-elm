@@ -1,4 +1,0 @@
-'.source.elm':
-  'every : Time -> Signal Time':
-    'prefix': 'every'
-    'body': 'every ${1:time}'

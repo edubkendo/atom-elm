@@ -1,4 +1,0 @@
-'.source.elm':
-  'cons : Maybe a -> [a] -> [a]':
-    'prefix': 'cons'
-    'body': 'cons ${1:maybe} ${2:list}'

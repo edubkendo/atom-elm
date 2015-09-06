@@ -1,4 +1,0 @@
-'.source.elm':
-  'color : Color -> Text -> Text':
-    'prefix': 'color'
-    'body': 'color ${1:color} ${2:text}'

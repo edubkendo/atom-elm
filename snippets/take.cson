@@ -1,4 +1,0 @@
-'.source.elm':
-  'take : Int -> [a] -> [a]':
-    'prefix': 'take'
-    'body': 'take ${1:int} ${2:list}'

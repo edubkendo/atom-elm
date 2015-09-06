@@ -1,4 +1,0 @@
-'.source.elm':
-  'any : (a -> Bool) -> [a] -> Bool':
-    'prefix': 'any'
-    'body': 'any ${1:function} ${2:list}'

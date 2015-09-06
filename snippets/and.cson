@@ -1,4 +1,0 @@
-'.source.elm':
-  'and : [Bool] -> Bool':
-    'prefix': 'and'
-    'body': 'and ${1:list}'

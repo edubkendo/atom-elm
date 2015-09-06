@@ -1,4 +1,0 @@
-'.source.elm':
-  'leftAligned : Text -> Element':
-    'prefix': 'leftAligned'
-    'body': 'leftAligned ${1:text}'

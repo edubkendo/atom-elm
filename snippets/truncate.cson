@@ -1,4 +1,0 @@
-'.source.elm':
-  'truncate : Float -> Int':
-    'prefix': 'truncate'
-    'body': 'truncate ${1:float}'

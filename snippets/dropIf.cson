@@ -1,4 +1,0 @@
-'.source.elm':
-  'dropIf : (a -> Bool) -> a -> Signal a -> Signal a':
-    'prefix': 'dropIf'
-    'body': 'dropIf ${1:function} ${2:a} ${3:signal}'

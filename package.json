@@ -1,11 +1,21 @@
 {
   "name": "language-elm",
-  "version": "0.6.1",
-  "description": "Syntax highlighting and snippets for the language Elm",
+  "version": "0.7.0",
+  "description": "Syntax highlighting and autocompletion for the language Elm",
   "repository": "https://github.com/edubkendo/atom-elm",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "elm-oracle": "^0.2.0"
+  },
+  "main": "./lib/main",
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provide"
+      }
+    }
+  }
 }

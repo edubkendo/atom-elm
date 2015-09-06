@@ -1,4 +1,0 @@
-'.source.elm':
-  'compare : comparable -> comparable -> Order':
-    'prefix': 'compare'
-    'body': 'compare ${1:comparable} ${2:comparable}'

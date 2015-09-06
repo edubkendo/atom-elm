@@ -1,4 +1,0 @@
-'.source.elm':
-  'acos : Float -> Float':
-    'prefix': 'acos'
-    'body': 'acos ${1:float}'

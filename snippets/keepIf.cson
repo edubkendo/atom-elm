@@ -1,4 +1,0 @@
-'.source.elm':
-  'keepIf : (a -> Bool) -> a -> Signal a -> Signal a':
-    'prefix': 'keepIf'
-    'body': 'keepIf ${1:function} ${2:a} ${3:signal}'

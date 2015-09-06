@@ -1,4 +1,0 @@
-'.source.elm':
-  'rgb : Int -> Int -> Int -> Color':
-    'prefix': 'rgb'
-    'body': 'rgb ${1:int} ${2:int} ${3:int}'
