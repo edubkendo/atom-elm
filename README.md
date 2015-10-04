@@ -8,7 +8,7 @@ In order to get autocomplete working, please:
 
   1. Open up a terminal
   2. `npm install -g elm-oracle`
-  3. `which elm-oracle`
+  3. `which elm-oracle` on Unix/Linux or `where.exe elm-oracle` on Windows
   4. Copy the path to elm-oracle
   5. Open up the language-elm settings in Atom  
   6. Paste the path into "The elm-oracle executable path" setting
