@@ -11,6 +11,10 @@ In order to get autocomplete working, please:
   3. `which elm-oracle` on Unix/Linux or `where.exe elm-oracle` on Windows
   4. Copy the path to elm-oracle
   5. Open up the language-elm settings in Atom  
+    - Open up the Atom Settings / Preferences tab
+    - Click on "Packages"
+    - Find the "language-elm" package in the list
+    - Click "Settings"
   6. Paste the path into "The elm-oracle executable path" setting
 
 Thanks to the authors of [Elm Oracle](https://github.com/ElmCast/elm-oracle)
