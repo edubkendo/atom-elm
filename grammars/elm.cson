@@ -110,6 +110,27 @@
     'include': '#std_library'
   }
   {
+    'begin': '"""'
+    'beginCaptures':
+      '0':
+        'name': 'punctuation.definition.string.begin.elm'
+    'end': '"""'
+    'endCaptures':
+      '0':
+        'name': 'punctuation.definition.string.end.elm'
+    'name': 'string.quoted.triple.elm'
+    'patterns': [
+      {
+        'match': '\\\\(NUL|SOH|STX|ETX|EOT|ENQ|ACK|BEL|BS|HT|LF|VT|FF|CR|SO|SI|DLE|DC1|DC2|DC3|DC4|NAK|SYN|ETB|CAN|EM|SUB|ESC|FS|GS|RS|US|SP|DEL|[abfnrtv\\\\\\"\'\\&]|x[0-9a-fA-F]{1,5})'
+        'name': 'constant.character.escape.elm'
+      }
+      {
+        'match': '\\^[A-Z@\\[\\]\\\\\\^_]'
+        'name': 'constant.character.escape.control.elm'
+      }
+    ]
+  }
+  {
     'begin': '"'
     'beginCaptures':
       '0':
@@ -121,7 +142,7 @@
     'name': 'string.quoted.double.elm'
     'patterns': [
       {
-        'match': '\\\\(NUL|SOH|STX|ETX|EOT|ENQ|ACK|BEL|BS|HT|LF|VT|FF|CR|SO|SI|DLE|DC1|DC2|DC3|DC4|NAK|SYN|ETB|CAN|EM|SUB|ESC|FS|GS|RS|US|SP|DEL|[abfnrtv\\\\\\"\'\\&])'
+        'match': '\\\\(NUL|SOH|STX|ETX|EOT|ENQ|ACK|BEL|BS|HT|LF|VT|FF|CR|SO|SI|DLE|DC1|DC2|DC3|DC4|NAK|SYN|ETB|CAN|EM|SUB|ESC|FS|GS|RS|US|SP|DEL|[abfnrtv\\\\\\"\'\\&]|x[0-9a-fA-F]{1,5})'
         'name': 'constant.character.escape.elm'
       }
       {
@@ -138,7 +159,7 @@
         'name': 'constant.character.escape.elm'
       '3':
         'name': 'punctuation.definition.string.end.elm'
-    'match': '(?x)\n\t\t\t(\')\n\t\t\t(?:\n\t\t\t\t[\\ -\\[\\]-~]\t\t\t\t\t\t\t\t# Basic Char\n\t\t\t  | (\\\\(?:NUL|SOH|STX|ETX|EOT|ENQ|ACK|BEL|BS|HT|LF|VT|FF|CR|SO|SI|DLE\n\t\t\t\t\t|DC1|DC2|DC3|DC4|NAK|SYN|ETB|CAN|EM|SUB|ESC|FS|GS|RS\n\t\t\t\t\t|US|SP|DEL|[abfnrtv\\\\\\"\'\\&]))\t\t# Escapes\n\t\t\t  | (\\^[A-Z@\\[\\]\\\\\\^_])\t\t\t\t\t\t# Control Chars\n\t\t\t)\n\t\t\t(\')\n\t\t\t'
+    'match': '(?x)\n\t\t\t(\')\n\t\t\t(?:\n\t\t\t\t[\\ -\\[\\]-~]\t\t\t\t\t\t\t\t# Basic Char\n\t\t\t  | (\\\\(?:NUL|SOH|STX|ETX|EOT|ENQ|ACK|BEL|BS|HT|LF|VT|FF|CR|SO|SI|DLE\n\t\t\t\t\t|DC1|DC2|DC3|DC4|NAK|SYN|ETB|CAN|EM|SUB|ESC|FS|GS|RS\n\t\t\t\t\t|US|SP|DEL|[abfnrtv\\\\\\"\'\\&]|x[0-9a-fA-F]{1,5}))\t\t# Escapes\n\t\t\t  | (\\^[A-Z@\\[\\]\\\\\\^_])\t\t\t\t\t\t# Control Chars\n\t\t\t)\n\t\t\t(\')\n\t\t\t'
     'name': 'string.quoted.single.elm'
   }
   {
