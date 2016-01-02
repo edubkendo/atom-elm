@@ -18,3 +18,7 @@ In order to get autocomplete working, please:
   6. Paste the path into "The elm-oracle executable path" setting
 
 Thanks to the authors of [Elm Oracle](https://github.com/ElmCast/elm-oracle)
+
+## Jump to Symbol
+
+Atom's native symbol-view package uses ctags, and thus doesn't support Elm without extra configuration. But this plugin https://atom.io/packages/goto uses langauge definition files to identify symbols, and does support Elm as long as atom-elm is installed.
