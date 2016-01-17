@@ -7,8 +7,16 @@
   "engines": {
     "atom": ">0.50.0"
   },
+  "scripts": {
+    "test": "./node_modules/.bin/standard"
+  },
   "dependencies": {
-    "elm-oracle": "^0.2.0"
+    "elm-oracle": "0.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "4.1.6",
+    "pre-commit": "1.1.2",
+    "standard": "5.4.1"
   },
   "main": "./lib/main",
   "providedServices": {
@@ -17,5 +25,11 @@
         "2.0.0": "provide"
       }
     }
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "globals": [
+      "atom"
+    ]
   }
 }
