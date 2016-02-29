@@ -2,6 +2,31 @@
 
 Syntax highlighting and autocomplete for the [Elm language](http://elm-lang.org/).
 
+## Installation
+
+There are two ways to install the Atom Elm Extension: using the editor, or using the command line.
+
+### Install using the editor (Recommended)
+
+You can install packages within Atom. To do so:
+
+  1. Open the editor settings
+  2. Click the "Install" menu item
+  3. Search for "language-elm"
+  4. Click the install button on the "language-elm" result
+  
+[More documentation for how to use the package manager](https://atom.io/docs/v1.5.3/using-atom-atom-packages) can be found on the official Atom site.
+
+#### Screenshot
+
+![Screenshot of installation](https://raw.githubusercontent.com/edubkendo/atom-elm/better-instructions/screenshot.png)
+
+### Install using the command line
+
+Run the following command in your terminal:
+
+```apm install language-elm```
+
 ## Autocomplete
 
 In order to get autocomplete working, please:
