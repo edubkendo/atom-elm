@@ -1,6 +1,6 @@
 {
   "name": "language-elm",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Syntax highlighting and autocompletion for the language Elm",
   "repository": "https://github.com/edubkendo/atom-elm",
   "license": "MIT",
