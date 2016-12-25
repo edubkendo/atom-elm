@@ -227,7 +227,7 @@
     'include': '#infix_op'
   }
   {
-    'match': '[|!%$?~+:\\-.=</>&\\\\*^]+'
+    'match': '[|!%$?~+:\\-.=</>&\\\\λ*^]+'
     'name': 'keyword.operator.elm'
   }
   {
